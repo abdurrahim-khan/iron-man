@@ -1,0 +1,45 @@
+.tobeinlineblock {
+    display: inline-block;
+}
+
+#left {
+ height: 1075px;
+ width: 233px;   
+}
+#right {
+    height: 588px;
+    width: 1000px;   
+   }
+   #rightleft {
+    height: 430px;
+    width: 472px;   
+   }
+   #rightright {
+    height: 430px;
+    width: 522px;   
+   }
+   
+
+#img1 {
+    height: 100px;
+    width: 100px;
+}
+#img2 {
+    height: 430px;
+    width: 522px;
+}
+#table {
+    height: 575px;
+    width: 1000px;
+}
+table {
+    width: 1000px;
+    text-align: center;
+    color: wheat;
+}
+body  {
+    background-color: black;
+}
+p {
+    color: wheat;
+}
